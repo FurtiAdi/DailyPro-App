@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DailyPro</string>
+    <string name="welcome_to">DailyPro</string>
+    <string name="create_your_profile">Create your profile to continue</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="create">Create</string>
+    <string name="note">My Tasks</string>
+    <string name="category">Category</string>
+    <string name="events">Events</string>
+    <string name="news_feeds">News Feeds</string>
+    <string name="social_media">Social Media</string>
+    <string name="facebook">Facebook</string>
+    <string name="Hi_User">Here, you can find all your daily apps \nand make your day easier. Enjoy your organized day!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="tiktok">TikTok</string>
+    <string name="snapchat">SnapChat</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">YouTube</string>
+    <string name="all_in_one_chat">ContactHub</string>
+    <string name="main">Main</string>
+    <string name="tasks">Tasks</string>
+    <string name="enter_your_task">Enter your task</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+</resources>
